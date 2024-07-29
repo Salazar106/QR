@@ -1,0 +1,5 @@
+## .env
+
+```bash
+VITE_RECAPTCHA_SITE_KEY=6LdZo80pAAAAALOetMkNyK8qeBlLGqEInYm31S8M
+```
